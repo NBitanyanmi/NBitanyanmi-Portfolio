@@ -22,7 +22,7 @@ const Home = () => {
         className="mt-6 px-6 py-3 bg-blue-500 hover:bg-blue-600 text-white font-semibold rounded-lg transition"
         whileHover={{ scale: 1.1 }}
       >
-        Projects coming live soon...
+        My Data Science Projects Coming Live Soon...
       </motion.a>
     </section>
   );
