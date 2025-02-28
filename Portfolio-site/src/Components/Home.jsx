@@ -14,7 +14,7 @@ const Home = () => {
       
       <h1 className="text-3xl md:text-5xl font-bold mt-4">Hi, I'm <span className="text-blue-400">N-nyiimock Bitanyanmi</span></h1>
       <p className="text-lg md:text-xl mt-2 text-gray-300">
-        Data Scientist | Python | Azure Enthusiast | Power BI & MS Excel Expert111
+        Data Scientist | Python | Azure Enthusiast | Power BI & MS Excel Expert
       </p>
 
       <motion.a 
