@@ -1,0 +1,17 @@
+/* styles.css */
+.profile-image {
+    width: 60px; /* Set desired size */
+    height: 60px;
+    border-radius: 50%; /* Makes it circular */
+    border: 4px solid #3b82f6; /* Blue border */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3); /* Subtle shadow */
+  }
+  
+  /* Make it slightly larger on medium+ screens */
+  @media (min-width: 768px) {
+    .profile-image {
+      width: 80px;
+      height: 80px;
+    }
+  }
+  
